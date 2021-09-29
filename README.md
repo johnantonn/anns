@@ -1,5 +1,5 @@
 # Artificial Neural Networks and Deep Learning
-Exploration and application of various artificial neural network architectures and learning algorithms to different problems and datasets.
+Application of various artificial neural network architectures and learning algorithms to different problems and datasets.
 
 ## Scope
 This repository contains part of the source code that was used/developed in the context of the exercise sessions of the course **Artificial Neural Networks and Deep Learning** for the Master's in Artificial Intelligence, KU Leuven (2020-2021). 
