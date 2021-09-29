@@ -27,7 +27,7 @@ In addition to that, the scripts that deploy CNN architectures also require the 
 * Statistics and Machine Learning Toolbox(TM)
 * CUDA-capable GPU card
 
-The Python notebooks can be executed in Google Colab.
+**Note**: Jupyter Notebooks can be executed in Google Colab.
 
 ## Disclaimer
 Large parts of the provided source code were originally authored by teaching assistants or MathWorks.
