@@ -20,11 +20,11 @@ The repository is comprised of the below subdirectories:
 
 ## Requirements
 The Matlab script that deploys Stacked Autoencoder architectures requires the below:
-* Neural Network Toolbox(TM)
+* Neural Network Toolbox
 
 In addition to that, the scripts that deploy CNN architectures also require the below:
-* Parallel Computing Toolbox (TM)
-* Statistics and Machine Learning Toolbox(TM)
+* Parallel Computing Toolbox
+* Statistics and Machine Learning Toolbox
 * CUDA-capable GPU card
 
 **Note**: Jupyter Notebooks can be executed in Google Colab.
